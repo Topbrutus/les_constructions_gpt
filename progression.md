@@ -41,6 +41,10 @@
   - règle de statut des tâches ajoutée
   - workflow manuel ajouté
   - orchestrateur minimal testé sans doublon
+  - première chaîne automatique exécutée
+  - première chaîne automatique validée
+  - deuxième chaîne automatique exécutée
+  - deuxième chaîne automatique validée
 
 - En cours :
   - structuration du fonctionnement projet par projet
