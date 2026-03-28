@@ -39,6 +39,8 @@
   - première vraie tâche exécutée
   - première vraie tâche validée
   - règle de statut des tâches ajoutée
+  - workflow manuel ajouté
+  - orchestrateur minimal testé sans doublon
 
 - En cours :
   - structuration du fonctionnement projet par projet
@@ -47,7 +49,8 @@
   - rien
 
 - Prochaine étape :
-  - créer une deuxième vraie tâche dans MonPremierProjet
+  - créer une automatisation plus complète ou une deuxième tâche automatique
 
 - Reprise exacte :
   - après la mise à jour de progression.md
+
