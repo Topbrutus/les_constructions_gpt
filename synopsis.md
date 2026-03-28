@@ -17,3 +17,6 @@ Ce dépôt sert de centre de mémoire, de pilotage et de coordination.
 
 ## Projets reliés
 - MonPremierProjet
+
+## Méthode de continuité
+- voir `project-method.md`
