@@ -7,54 +7,32 @@
   - dossier brain créé
   - synopsis.md créé
   - communication-protocol.md créé
-
-- En cours :
-  - mise en place des fichiers de pilotage
-
-- Bloqué :
-  - rien
-
-- Prochaine étape :
-  - fermer proprement les Issues terminées ou enrichir l’orchestrateur
-  
-- Reprise exacte :
-  - après la création de progression.md
-
-# Progression
-
-## État d’avancement
-- Terminé :
-  - Instructions.md déposé
-  - repo central vérifié
-  - dossier brain créé
-  - synopsis.md créé
-  - communication-protocol.md créé
   - progression.md créé
   - dossier robots créé
   - fonctions GitHub utiles vérifiées
   - labels principaux créés
   - test simple Rex → Rio → Run validé
   - MonPremierProjet créé
-  - MonPremierProjet relié au centre
+  - MonPremierProjet relhé au centre
   - première vraie tâche exécutée
   - première vraie tâche validée
   - règle de statut des tâches ajoutée
   - workflow manuel ajouté
   - orchestrateur minimal testé sans doublon
-  - première chaîne automatique exécutée
-  - première chaîne automatique validée
+  - première chaî�e automatique exécutée
+  - première chaî�e automatique validée
   - deuxième chaîne automatique exécutée
   - deuxième chaîne automatique validée
+  - toutes les Issues ouvertes du centre ont été fermées proprement
 
 - En cours :
-  - structuration du fonctionnement projet par projet
+  - amélioration du système ou lancement d’un nouveau projet
 
 - Bloqué :
   - rien
 
 - Prochaine étape :
-  - créer une automatisation plus complète ou une deuxième tâche automatique
+  - enrichir léorchestrateur ou démarrer un nouveau projet
 
 - Reprise exacte :
-  - après la mise à jour de progression.md
-
+  - après la mise à jour finale de progression.md et reprise.md, centre propre sans Issue ouverte
