@@ -15,8 +15,8 @@
   - rien
 
 - Prochaine étape :
-  - créer un emplacement pour les robots ou agents
-
+  - fermer proprement les Issues terminées ou enrichir l’orchestrateur
+  
 - Reprise exacte :
   - après la création de progression.md
 
