@@ -1,0 +1,7 @@
+[
+  {
+    "title": "Tâche automatique de test",
+    "body": "Projet cible : Topbrutus/MonPremierProjet\n\nTâche demandée :\nAjouter une trace automatique de test via l’orchestrateur.\n\nRègle :\n- travailler uniquement via le centre\n- créer une Issue si elle n’existe pas déjà\n- éviter les doublons\n",
+    "labels": ["robot:rex", "consigne", "action-envoyee"]
+  }
+]
