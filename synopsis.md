@@ -14,3 +14,6 @@ Ce dépôt sert de centre de mémoire, de pilotage et de coordination.
 - consignes
 - coordination
 - historique
+
+## Projets reliés
+- MonPremierProjet
