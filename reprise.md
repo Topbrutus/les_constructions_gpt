@@ -4,12 +4,13 @@
 - le centre est en place
 - MonPremierProjet est relié au centre
 - une chaîne réelle a été exécutée avec succès
-- une chaîne automatique a été exécutée avec succès
+- deux chaînes automatiques ont été exécutées avec succès
 - l’orchestrateur ne crée pas de doublon sur le même backlog
+- toutes les Issues de test et de tâche traitées ont été fermées proprement
 
 ## Reprendre ici
 La prochaine étape logique est :
-créer une deuxième tâche automatique ou enrichir l’orchestrateur.
+enrichir l’orchestrateur ou lancer un nouveau projet.
 
 ## Point exact
-Reprendre après la validation du second lancement du workflow manuel, sans doublon créé.
+Reprendre après fermeture propre de toutes les Issues ouvertes du centre.
